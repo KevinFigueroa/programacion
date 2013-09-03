@@ -1,1 +1,21 @@
 fhfhhfhhf
+#include "stdafx.h"
+#include "conio.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	int x,y,s;
+	float area;
+	cout << "lado A:"
+	cin >> a;
+	cout << "lado B:"
+	cin >> b;
+    cout << "lado C:"
+	cin >> c;
+	lado= (lado A+ lado B)/2.0;
+	s= sqrt p(p-a)*(p-b)*(p-c)
+	cout << "El area es: " << s;
+	return 0;
